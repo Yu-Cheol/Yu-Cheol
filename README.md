@@ -25,7 +25,7 @@
 </div>
 <br>
 <div align="left">
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/intellij-black.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
