@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-Cheol&show_icons=true&theme=blueberry)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo&show_icons=true&theme=blueberry)
 <hr>
 <!--내용 부분-->
 <h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
