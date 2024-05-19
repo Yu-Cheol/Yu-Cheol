@@ -1,7 +1,16 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=blueberry)
+<!-- Git Stats -->
+<div align="left">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark)
+</div>
 <hr>
+<!-- hits -->
+<div align="left">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Cheol&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false)
+</div>
 <!--내용 부분-->
-<h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
+<!-- <h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
 <div align="left">
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -29,3 +38,4 @@
   <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
+ -->
