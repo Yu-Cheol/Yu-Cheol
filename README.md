@@ -1,14 +1,14 @@
+<!-- hits -->
+<div align="left">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Cheol&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false)
+</div>
 <!-- Git Stats -->
 <div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark)
 </div>
 <hr>
-<!-- hits -->
-<div align="left">
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Cheol&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false)
-</div>
 <!--내용 부분-->
 <!-- <h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
 <div align="left">
