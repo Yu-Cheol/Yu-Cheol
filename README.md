@@ -1,14 +1,18 @@
-<!-- hits -->
-<div align="left">
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Cheol&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false)
-</div>
 <!-- Git Stats -->
-<div align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo12)](https://solved.ac/yoo12/)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-CHEOL&layout=compact)-->
+
+<!-- hits -->
+<div>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Cheol%2Fhit-counter&count_bg=%23AAAAAA&title_bg=%235C5C5C&icon=baidu.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false"/></a>
 </div>
+
 <hr>
+<div> 
+   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+</div>
 <!--내용 부분-->
 <!-- <h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
 <div align="left">
