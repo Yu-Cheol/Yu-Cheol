@@ -4,8 +4,8 @@
 </div>
 <!-- Git Stats -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-CHEOL&layout=donut&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
 
 <hr>
 <div> 
