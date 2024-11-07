@@ -5,6 +5,7 @@
    <!-- Git Stats -->
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo12)](https://solved.ac/yoo12/)
 </div>
 
 <details>
@@ -20,9 +21,6 @@
    </div>
 </details>
 <!--내용 부분-->
-<!-- 백준
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo12)](https://solved.ac/yoo12/)
--->
 <!-- <h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
 <div align="left">
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
