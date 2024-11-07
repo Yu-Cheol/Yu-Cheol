@@ -1,17 +1,24 @@
 <!-- hits -->
 <div>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Cheol%2Fhit-counter&count_bg=%23AAAAAA&title_bg=%235C5C5C&icon=baidu.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false"/></a>
+   
+   <!-- Git Stats -->
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
 </div>
-<!-- Git Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-CHEOL&layout=donut&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
-
+<details>
+   <summary><h3> → Most Used Languages</h3></summary>
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-CHEOL&layout=donut&theme=dark)
+</details>
 <hr>
-<h3 align="center">⭐︎ Tech Stack ⭐︎</h3>
-<div align="center"> 
-   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-</div>
+<details>
+<summary align="center"><h3>⭐︎ Tech Stack ⭐︎</h3></summary>
+   <div align="center"> 
+      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+   </div>
+</details>
 <!--내용 부분-->
 <!-- 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo12)](https://solved.ac/yoo12/)
