@@ -8,7 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=)
 
 <hr>
-<div> 
+<h3 align="center">⭐︎ Tech Stack ⭐︎</h3>
+<div align="center"> 
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 </div>
 <!--내용 부분-->
