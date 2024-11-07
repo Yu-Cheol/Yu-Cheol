@@ -9,7 +9,7 @@
 </div>
 
 <details>
-   <summary><h3> → Most Used Languages</h3></summary>
+   <summary><h3> 💻 Most Used Languages</h3></summary>
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-CHEOL&layout=donut&theme=dark)
 </details>
