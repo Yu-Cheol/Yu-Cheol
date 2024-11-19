@@ -4,11 +4,11 @@
    
    <!-- Git Stats -->
    
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=) -->
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo12)](https://solved.ac/yoo12/)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-CHEOL&show_icons=true&theme=dark&hide=) 
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo12)](https://solved.ac/yoo12/) -->
 </div>
 
-<details>
+<!-- <details>
    <summary><h3> 📌 Most Used Languages</h3></summary>
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-CHEOL&layout=donut&theme=dark)
@@ -19,7 +19,7 @@
    <div align="center"> 
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
    </div>
-</details>
+</details> -->
 <!--내용 부분-->
 <!-- <h3 align="left">⭐︎ Tech Stack ⭐︎</h3>
 <div align="left">
